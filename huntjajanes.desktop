@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hunt ja jänes
+Type=Application
+Exec=hunt-ja-janes
+Terminal=false
+Categories=Game;
+Comment=Põgene hundi eest
